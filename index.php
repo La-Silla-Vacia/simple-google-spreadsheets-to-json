@@ -2,8 +2,7 @@
 header('Content-Type: application/json');
 header('Access-Control-Allow-Origin: *');
 
-function updateFeed()
-{
+function updateFeed() {
   $row = 1;
   $result = array();
 
